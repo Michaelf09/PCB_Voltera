@@ -797,6 +797,10 @@
     [
       "00000000-0000-0000-0000-0000611a4eb9",
       "Power Supply"
+    ],
+    [
+      "4a5bc31c-5ab0-491b-a50f-25f3d7ce9151",
+      "Button"
     ]
   ],
   "text_variables": {}
